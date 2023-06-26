@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Gato
+comment1.params=edad\ peso\ nom
+comment1.target=Gato(int,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=double\ getPeso()
+comment3.params=tom
+comment3.target=void\ setPeso(double)
+numComments=4
