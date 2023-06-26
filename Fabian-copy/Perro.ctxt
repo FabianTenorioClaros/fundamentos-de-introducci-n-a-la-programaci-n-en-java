@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Perro
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Perro\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=int\ adadHumana()
+comment2.params=tipoDeComida
+comment2.target=void\ alimentar(int)
+comment3.params=
+comment3.target=java.lang.String\ Interactuar()
+comment4.params=
+comment4.target=void\ imprimeInformacion()
+comment5.params=pEdad\ pNombre\ pPeso
+comment5.target=Perro(int,\ java.lang.String,\ float)
+numComments=6
